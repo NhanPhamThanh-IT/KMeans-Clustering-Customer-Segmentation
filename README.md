@@ -13,6 +13,8 @@
 
 <div align="justify">
 
+<p>K-Means Clustering Customer Segmentation is a user-friendly, interactive web application built with Python, scikit-learn, and Streamlit. It enables businesses and data enthusiasts to segment customers based on annual income and spending score using the K-Means clustering algorithm. The app provides real-time predictions, clear visualizations, and supports easy retraining with new data or features. Ideal for marketing, retail, banking, and more, it helps identify high-value or at-risk customer groups, personalize offers, and optimize business strategies. The modular codebase and comprehensive documentation make it easy to customize, extend, and deploy in various environments.</p>
+
 ---
 
 ## 📚 Table of Contents
@@ -28,7 +30,6 @@
 - [How It Works: Step-by-Step](#️-how-it-works-step-by-step)
 - [Behind the Scenes: Code Structure](#️-behind-the-scenes-code-structure)
 - [Customization & Extensibility](#️-customization--extensibility)
-- [Visualizations & Screenshots](#️-visualizations--screenshots)
 - [Sample Input/Output](#-sample-inputoutput)
 - [Installation & Requirements](#-installation--requirements)
 - [Usage](#-usage)
@@ -223,20 +224,6 @@ For more, see [`docs/kmeans-clustering.md`](docs/kmeans-clustering.md).
   - Adjust `k` in the notebook and retrain
 - **Deploy Anywhere:**
   - See [`docs/streamlit.md`](docs/streamlit.md) for deployment guides (Streamlit Cloud, Docker, etc.)
-
----
-
-## 🖼️ Visualizations & Screenshots
-
-> **Note:** No images are included by default. For best results, add screenshots of your app and cluster visualizations here!
-
-- Example: App interface screenshot
-  
-  ![App Screenshot](docs/demo-screenshot.png)
-  
-- Example: Cluster visualization
-  
-  ![Cluster Visualization](docs/cluster-visualization.png)
 
 ---
 
